@@ -1,2 +1,2 @@
 # School_FactoryMethod
-A basic program that writes a basic model for a C# program. Was made my Sophomore year in college.
+A example project used to learn the Factory Design pattern in OOP. (May be incomplete, as it is a school project.)
